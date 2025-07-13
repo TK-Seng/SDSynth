@@ -13,6 +13,7 @@ It features layered oscillators, waveform shaping, ADSR envelopes, gain controls
 
 1. Clone the repository
 2. Open the project file in the Projucer application (JUCE).
-3. Select the appropriate build target (i.e. VST) in Xcode's toolbar.
-4. Build the project
-5. The compiled VST plugin will be available in the build folder. Load it into your preferred DAW.
+3. In Projucer, generate and open the Xcode project using the Exporters section
+4. Select the appropriate build target (i.e. VST) in Xcode's toolbar.
+5. Build the project
+6. The compiled VST plugin will be available in the build folder. Load it into your preferred DAW.
